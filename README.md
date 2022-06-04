@@ -2,5 +2,5 @@
 First project to reflect what I've learned so far.
 
 
-## Process
-Made a new repository on github, then used git to clone in my local repo folder.
+## Contents
+Will have a index page and three subpages. Will contain a folder with images. Will contain small css folder, placed there on my own liberty.
