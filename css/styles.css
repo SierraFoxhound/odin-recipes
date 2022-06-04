@@ -2,6 +2,10 @@ body {
     background-color: burlywood;
 }
 
-.food {
+.waffles {
     width: 540px;
+}
+
+.cookies {
+    width: 400px;
 }
