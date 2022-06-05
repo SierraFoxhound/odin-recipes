@@ -1,9 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital@1&display=swap');
+
 body {
-    background-color: burlywood;
+    background-color: black;
+    background-image: url(../images/web-body.jpeg);
+    font-family: 'Source Code Pro', sans-serif;
+}
+
+.border {
+width: 80%;
+max-width: 500px;
+background-color: burlywood;
+margin-left: auto;
+margin-right: auto;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
 }
 
 .waffles {
-    width: 540px;
+    width: 400px;
 }
 
 .cookies {
